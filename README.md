@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到顾佳玟的博客呦🍗
 
 You can use the [editor on GitHub](https://github.com/jiamingithub/jiamingithub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
